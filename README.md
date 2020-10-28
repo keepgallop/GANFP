@@ -21,9 +21,9 @@ Baseline repos for reference:
 
 ## Data preparation
 ### Datasets
-- **Real-world images**: [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html); [LSUN-bedroom](https://github.com/fyu/lsun); [ThisPersonDoesNotExist](https://thispersondoesnotexist.com/); [Generated photos](https://generated.photos/)
+- **Real images**: [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html); [LSUN-bedroom](https://github.com/fyu/lsun); 
 -  **GAN-generated images**: We employ pre-trained GANs from:[ProGAN+SNGAN+CramerGAN+MMDGAN](https://github.com/ningyu1991/GANFingerprints); [Official StarGAN](https://github.com/yunjey/stargan); [Official CycleGAN](https://junyanz.github.io/CycleGAN/). 
-
+- **Real-world visual forensics**: [ThisPersonDoesNotExist](https://thispersondoesnotexist.com/); [Generated photos](https://generated.photos/)
 ### File tree
 Expected data dictionary:
 ```
