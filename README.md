@@ -1,4 +1,4 @@
-# GANFF
+# GANFP
 The repo consists of the codes for *"Exploring GAN fingerprints for visual forensics of machine-generated media"*
 
 > The current version is somewhat jumbled up. A cleaner version is coming soon.  
