@@ -11,7 +11,7 @@ Exploring GAN fingerprints for visual forensics of machine-generated media. Jour
 ```
 
 ## Prerequisites
-Python 3 version, Tensorflow 1.5+ with CUDA compatibility. See requirements.txt for packages needed.
+Python 3 version, Tensorflow 1.5+ with CUDA compatibility. See `requirements.txt` for packages needed.
 
 Baseline repos for reference:
 * [GANFingerprints](https://github.com/ningyu1991/GANFingerprints)
