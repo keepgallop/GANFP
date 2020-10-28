@@ -3,7 +3,7 @@ The repo consists of the codes for *"Exploring GAN fingerprints for visual foren
 
 > The current codes are somewhat in chaos. A cleaner version is coming soon.  
 
-![image](./pics/final_finger.pdf)
+![image](https://github.com/keepgallop/GANFP/blob/master/pics/final_finger.pdf)
 
 Cite us:
 ```
